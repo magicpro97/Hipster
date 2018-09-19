@@ -1,0 +1,26 @@
+{
+  "generator-android-hipster": {
+    "appPackage": "com.linh.hipster",
+    "appName": "Hipster",
+    "language": "java",
+    "nucleus": false,
+    "mvp": "embeed",
+    "imageLib": "none",
+    "picasso": false,
+    "glide": false,
+    "eventbus": false,
+    "mixpanel": false,
+    "timber": false,
+    "jodatime": false,
+    "threetenabp": false,
+    "jodamoney": false,
+    "butterknife": false,
+    "androidTargetSdkVersion": "23",
+    "minSdk": 15,
+    "calligraphy": false,
+    "playServices": [],
+    "stetho": false,
+    "printview": false,
+    "autoparcel": true
+  }
+}
